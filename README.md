@@ -3,7 +3,8 @@
 
 ## Special Mobs
 #### Section: Survival
-Models for a MythicMob mob\n
+Models for a MythicMob mob
+
 Makes with BlockBench and ModelEngine
 
 ## USM Models
