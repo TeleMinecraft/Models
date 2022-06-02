@@ -1,5 +1,5 @@
 # Models
-3D Models for the ResourcePack of the server
+3D Models for the ResourcePacks of the server
 
 ## USM Models
 Makes with BlockBench
